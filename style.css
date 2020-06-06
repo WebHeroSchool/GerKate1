@@ -1,3 +1,7 @@
+body {
+  background: url(background.png);
+}
+
 .header__title {
   color: #191970;
   text-align: center;
