@@ -1,5 +1,6 @@
 body {
   background: url(background.png);
+  font-family: 'Oswald' sans-serif;
 }
 
 .header__title {
@@ -20,7 +21,7 @@ body {
 }
 
 .header__lead {
-  font-family: 'Oswald' sans-serif;
+  font-family: sans-serif;
   
 }
 
@@ -46,7 +47,7 @@ body {
   text-align: left;
   background-color: #D8BFD8;
   padding: 10px;
-  font-family: 'Oswald' sans-serif;
+  font-family: sans-serif;
 }
 
 .footer__button {
@@ -56,7 +57,7 @@ body {
 
 .list {
 font-style: oblique;
-font-family: 'Oswald' sans-serif;
+font-family: sans-serif;
 list-style-type: square;
 
 }
