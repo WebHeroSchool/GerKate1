@@ -6,10 +6,10 @@ body {
   color: #191970;
   text-align: center;
   background-color: #D8BFD8;
-  margin: 50px 10px;
+  margin-top: 200px
   padding: 20px;
   text-shadow: 2px 2px 4px #000000;
-  font-family: sans-serif;
+  font-family: 'Roboto' sans-serif;
 }
 
 .header__line, .section-desc__line {
@@ -20,7 +20,7 @@ body {
 }
 
 .header__lead {
-  font-family: sans-serif;
+  font-family: 'Oswald' sans-serif;
   
 }
 
@@ -33,20 +33,20 @@ body {
   color: #191970;
   text-shadow: 2px 2px 4px #000000;
   text-transform: uppercase;
-  font-family: sans-serif;
+  font-family: 'Roboto' sans-serif;
 }
 
 .footer__title {
   color: #191970;
   text-shadow: 2px 2px 4px #000000;
-  font-family: sans-serif;
+  font-family: 'Roboto' sans-serif;
 }
 
 .footer__text {
   text-align: left;
   background-color: #D8BFD8;
   padding: 10px;
-  font-family: sans-serif;
+  font-family: 'Oswald' sans-serif;
 }
 
 .footer__button {
@@ -56,7 +56,7 @@ body {
 
 .list {
 font-style: oblique;
-font-family: sans-serif;
+font-family: 'Oswald' sans-serif;
 list-style-type: square;
 
 }
