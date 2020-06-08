@@ -34,13 +34,13 @@ body {
   color: #191970;
   text-shadow: 2px 2px 4px #000000;
   text-transform: uppercase;
-  font-family: 'Roboto' sans-serif;
+  font-family: sans-serif;
 }
 
 .footer__title {
   color: #191970;
   text-shadow: 2px 2px 4px #000000;
-  font-family: 'Roboto' sans-serif;
+  font-family: sans-serif;
 }
 
 .footer__text {
