@@ -1,11 +1,16 @@
+body {
+  background: url(background.png);
+  font-family: 'Oswald' sans-serif;
+}
+
 .header__title {
   color: #191970;
   text-align: center;
   background-color: #D8BFD8;
-  margin: 50px 10px;
+  margin-top: 200px
   padding: 20px;
   text-shadow: 2px 2px 4px #000000;
-  font-family: sans-serif;
+  font-family: 'Roboto' sans-serif;
 }
 
 .header__line, .section-desc__line {
